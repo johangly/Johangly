@@ -1,10 +1,10 @@
 ### Hi there!👋
 
-🔷 Who i am?:
+### 🔷 Who i am?:
 
- ###  🔵 My name is Johangly Sucre and i am a web Developer Frotend and Web Designer 💻
+  🔵 My name is Johangly Sucre and i am a web Developer Frotend and Web Designer 💻
  
-🔶 I have knowledge in HTML, Javascript, CSS, Sass, Bootstrap and Figma, i can make a excellent layout and good design, i was an illustator before be Frontend Developer, that's why I want to specialize in making the layout.
+  🔶 I have knowledge in HTML, Javascript, CSS, Sass, Bootstrap and Figma, i can make a excellent layout and good design, i was an illustator before be Frontend          Developer, that's why I want to specialize in making the layout.
 
  ### 🔭 I’m currently working on:
 
