@@ -4,7 +4,7 @@
 
   🔵 My name is Johangly Sucre and i am a Frontend Web Developer 💻
  
-  🔶 I have knowledge in HTML, Javascript, CSS, Sass, Bootstrap and Figma, i can make a excellent layout and good design, i was an illustator before be Frontend          Developer, that's why I want to specialize in making the layout.
+  🔶 I have knowledge in HTML, Javascript, CSS, Sass, Bootstrap and Figma, I can make an excellent layout and a good design, I have been an illustrator before being    Frontend Developer, that's why I want to specialize in doing layout.
 
  ### 🔭 I’m currently working on:
 
