@@ -1,4 +1,4 @@
-### Hi!👋
+# Hi!👋
 
 ### 🔷 Who am i?:
 
@@ -18,4 +18,6 @@
  
   I speak Spanish and basic english, i can read documentation without any problems and I never stop learning.
   
- ### if you find an error in my works pls get me feedback 🙂
+ ## if you find an error in my works pls get me feedback 🙂
+ 
+ ## Frontend Mentor - [@Johangly](https://www.frontendmentor.io/profile/johangly)
