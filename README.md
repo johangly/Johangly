@@ -1,23 +1,9 @@
-## Hi!👋
+# Hi, my name is Johangly sucre
 
-### 🔷 Who am i?:
-
-  🔵 My name is Johangly Sucre and i am a Frontend Web Developer 💻
+I am a frontend web developer with experience in developing solutions and algorithms, experience in managing teams and mentoring, platzi student, passionate about self-improvement and never stop learning to build the future.
  
-  🔶 I have knowledge in HTML, Javascript, CSS, Sass, Bootstrap, Tailwind, React and Figma, I can make an excellent layout, systems, algorithms and a good design.
-
- ### 🔭 I’m currently working on:
-
-  🔨I am always studying and practicing to get better, if you want to see, check my repositories 🙂.
-
- ### 🌱 I’m currently learning:
-  
-  📒 I am currently learning more about Rust and blockchain development,Flutter and Frontend.
-  
- ### 💬 Languages:
- 
-  I speak Spanish and basic english, i can read documentation without any problems and I never stop learning.
-  
- ## if you find an error in my works pls get me feedback 🙂
- 
- ## Frontend Mentor - [@Johangly](https://www.frontendmentor.io/profile/johangly)
+ ## [Linkedin](https://www.linkedin.com/in/johangly-sucre/)
+ ## [Platzi](https://platzi.com/p/johanglysucre/)
+ ## [Twitter](https://twitter.com/Suhangly)
+ ## [@Frontend Mentor](https://www.frontendmentor.io/profile/johangly)
+ ## [FreeCodeCamp](https://www.freecodecamp.org/espanol/johangly_sucre)
