@@ -2,7 +2,7 @@
 
 I am a frontend web developer with experience in developing solutions and algorithms, experience in managing teams and mentoring, platzi student, passionate about self-improvement and never stop learning to build the future.
 
-![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanGiavino&theme=tokyonight)
+<!-- ![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight) -->
 
  ### [Linkedin](https://www.linkedin.com/in/johangly-sucre/)
  ### [Platzi](https://platzi.com/p/johanglysucre/)
