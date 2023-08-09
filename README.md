@@ -35,8 +35,8 @@ My name is Johangly Sucre, I am a frontend web developer with experience in deve
 <!-- 
 -->
 ### My Stadistics
-![Anurag's GitHub stats](https://github-readme-stats-johangly.vercel.app/api?username=johangly&show_icons=true)
-[![Top Langs](https://github-readme-stats-johangly.vercel.app/api/top-langs/?username=johangly&layout=compact)](https://github.com/johangly/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-beryl-xi.vercel.app/api?username=johangly&show_icons=true)
+[![Top Langs](https://github-readme-stats-beryl-xi.vercel.app/api/top-langs/?username=johangly&layout=compact)](https://github.com/johangly/github-readme-stats)
 
 ### Social
 
