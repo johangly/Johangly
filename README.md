@@ -12,6 +12,7 @@ My name is Johangly Sucre, I am a frontend web developer with experience in deve
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-%23db7092.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=333" />
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-%234488ee.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-Php-%238993BE.svg?&style=for-the-badge&logo=php&logoColor=333" />
 <!--   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> -->
 <!--   <img alt="Nodejs" src="https://camo.githubusercontent.com/16c921bc8fbac9756892f9344acbe27a5be09b60671d9db1fc8a6cb33b5cccd6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3343383733413f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" /> -->
   <img alt="React" src="https://img.shields.io/badge/-React-%2345b8d8.svg?&style=for-the-badge&logo=react&logoColor=white" />
@@ -33,10 +34,10 @@ My name is Johangly Sucre, I am a frontend web developer with experience in deve
 </p>
 
 <!-- 
--->
 ### My Stadistics
 ![Anurag's GitHub stats](https://github-readme-stats-beryl-xi.vercel.app/api?username=johangly&show_icons=true)
 [![Top Langs](https://github-readme-stats-beryl-xi.vercel.app/api/top-langs/?username=johangly&layout=compact)](https://github.com/johangly/github-readme-stats)
+-->
 
 ### Social
 
