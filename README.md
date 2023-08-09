@@ -32,10 +32,11 @@ My name is Johangly Sucre, I am a frontend web developer with experience in deve
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="81px" height="20px"/> -->
 </p>
 
+<!-- 
 ### My Stadistics
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johangly&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johangly&layout=compact)](https://github.com/johangly/github-readme-stats)
+-->
 
 ### Social
 
