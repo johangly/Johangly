@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Johangly Sucre, I am a frontend web developer with experience in developing solutions and algorithms, experience in managing teams and mentoring, platzi student, passionate about self-improvement and never stop learning to build the future.
+My name is Johangly Sucre, I am a frontend web developer with experience in developing solutions and algorithms, experience in managing teams and mentoring, passionate about self-improvement and never stop learning to build the future.
 
 ### Languages / Frameworks / Librarys
 
